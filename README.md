@@ -18,13 +18,13 @@
 - [Recommendation](#recommendation)
 - [Salary Distribution](#salary-distribution)
 - [Key Findings](#key-findings)
-- [Bonus Payment](bonus-payment)
-- [Key findings](key-findings)
+- [Bonus Payment](#bonus-payment)
+- [Key findings](#key-findings)
 - [Recommendation](#recommendation)
 - [Highest Bonus Awarded](#highest-bonus-awarded)
 - [Key Findings](#key-findings)
-- [Lowest Performance Rating](lowest-performance-raating)
-- [Key findings](key-findings)
+- [Lowest Performance Rating](#lowest-performance-raating)
+- [Key findings](#key-findings)
 
 ---
 
