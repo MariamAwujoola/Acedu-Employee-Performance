@@ -23,7 +23,7 @@
 - [Recommendation](#recommendation)
 - [Highest Bonus Awarded](#highest-bonus-awarded)
 - [Key Findings](#key-findings)
-- [Lowest Performance Rating](#lowest-performance-raating)
+- [Lowest Performance Rating](#lowest-performance-rating)
 - [Key findings](#key-findings)
 
 ---
