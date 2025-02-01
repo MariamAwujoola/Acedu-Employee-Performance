@@ -1,6 +1,33 @@
 # Employee Performance Report
 ---
 ## Table of Content
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Attrition Rate Analysis](#attrition-rate-analysis)
+- [Key findings](#key-findings)
+- [Recommendation](#recommendation)
+- [Performance Ratings Analysis](#performance-ratings-analysis)
+- [Key Findings](#key-findings)
+- [Recommendation](#recommendation)
+- [Total Employees](#total-employees)
+- [Key findings](#key-findings)
+- [Employee Status by Department](#employee-status-by-department)
+- [Key Findings](#key-findings)
+- [Recommendation](#recommendation)
+- [Salary Distribution](#salary-distribution)
+- [Key Findings](#key-findings)
+- [Bonus Payment](bonus-payment)
+- [Key findings](key-findings)
+- [Recommendation](#recommendation)
+- [Highest Bonus Awarded](#highest-bonus-awarded)
+- [Key Findings](#key-findings)
+- [Lowest Performance Rating](lowest-performance-raating)
+- [Key findings](key-findings)
+
+---
+
 ## Project Overview
 This report presents an analysis of employee performance at Acedu, focusing on key metrics such as performance ratings, attrition rates, salary distribution, and bonus payments across different departments. 
 The employee performance data highlights key strenghts and areas for improvement within Acedu. By implementing strategic changes, the company can enhance productivity, employee staisfaction, and overall business success.
