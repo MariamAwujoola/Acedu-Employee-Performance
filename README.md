@@ -1,7 +1,9 @@
 # Employee Performance Report
 ---
+## Table of Content
 ## Project Overview
-This report presents an anlysis of employee performance at Acedu, focusing on key metrics such as performance ratings, attrition rates, salary distribution, and bonus payments across different departments. 
+This report presents an analysis of employee performance at Acedu, focusing on key metrics such as performance ratings, attrition rates, salary distribution, and bonus payments across different departments. 
+The employee performance data highlights key strenghts and areas for improvement within Acedu. By implementing strategic changes, the company can enhance productivity, employee staisfaction, and overall business success.
 
 ## Data Sources  
 This dataset was gathered through **surveys and internal data collection at Acedu**, focusing on employee performance metrics. All data has been cleaned and anonymized for analysis. 
@@ -24,7 +26,11 @@ This dataset was gathered through **surveys and internal data collection at Aced
  Attrition Rate: The attrition rate stands at 45%
  - The attrition rate of 45% is significantly high and may indicate dissatisfaction or a competitive job market.
    
- 
+#### Recommendation 
+- The company should reduce attrition rate by conducting employee engagement surveys to identify reasons for attrition and implement retention strategies.
+- Introduce well being programs such as flexible work arrangements, career development plans, and recognition programs.
+   
+
 ### Performance Ratings Analysis
 
 ![Screenshot 2025-01-31 150648](https://github.com/user-attachments/assets/c4137578-dd58-4906-ada4-be52e7b02164)
@@ -39,6 +45,10 @@ This dataset was gathered through **surveys and internal data collection at Aced
 
 - Finance has the lowest average performance rating, suggesting a need for skill enhancement or motivation strategies.
 
+#### Recommendation
+Enhance Performance in Finance by providing training programs, mentorship, and incentives to improve productivity.
+
+
 
    ### Total Employees
 
@@ -46,6 +56,7 @@ This dataset was gathered through **surveys and internal data collection at Aced
 
 ### Key findings
  100 employees are distributed across departments: Sales, IT, Finance, Human Resources, and an unspecified category.
+
 
 
 
@@ -62,7 +73,11 @@ This dataset was gathered through **surveys and internal data collection at Aced
 
 - Sales and IT department have the highest number of employees, with a notable number of disengaged employees.
 
+#### Recommendation
 
+- Address disengagement issues by introducing team building activities and periodic performance evaluations to encourage active participation.
+
+  
    ### Salary Distribution
 
   ![Screenshot 2025-01-31 150702](https://github.com/user-attachments/assets/602636f5-4867-4c46-99d9-acb5ac633fa3)
@@ -75,6 +90,9 @@ This dataset was gathered through **surveys and internal data collection at Aced
   - Human Resources: #243,442.07
   - Unspecified: #244,307.75
  
+  - The salary distribution appears balanced across departments, though Finance and IT receive the highest bonuses.
+ 
+
   ### Bonus Payment
   
 ![Screenshot 2025-01-31 150718](https://github.com/user-attachments/assets/11721cd3-18b2-46ed-8373-4ad433d24149)
@@ -86,12 +104,20 @@ This dataset was gathered through **surveys and internal data collection at Aced
 - Human Resources:#399,869.65
 - Unspecified: #145,801.73
 
+#### Recommendation 
+
+- Review bonus allocation to ensure bonus distribution aligns with performance and contribution to company goals.
+
+
+  
 #### Highest Bonus Awarded
 
 ![Screenshot 2025-01-31 150405](https://github.com/user-attachments/assets/ddbfbc07-2c66-4ca2-a171-7a832c50c300)
 
 #### Key Findings 
 Highest Bonus Awarded: #104,928.37
+
+- The highest bonus amount suggests a reward system in place for top performers.
 
 #### Lowest Performance Rating 
 
