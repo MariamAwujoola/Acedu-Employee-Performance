@@ -30,7 +30,7 @@
 
 ## Project Overview
 This report presents an analysis of employee performance at Acedu, focusing on key metrics such as performance ratings, attrition rates, salary distribution, and bonus payments across different departments. 
-The employee performance data highlights key strenghts and areas for improvement within Acedu. By implementing strategic changes, the company can enhance productivity, employee staisfaction, and overall business success.
+The employee performance data highlights key strenghts and areas for improvement within Acedu. By implementing strategic changes, the company can enhance productivity, employee satisfaction, and overall business success.
 
 ## Data Sources  
 This dataset was gathered through **surveys and internal data collection at Acedu**, focusing on employee performance metrics. All data has been cleaned and anonymized for analysis. 
